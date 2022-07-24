@@ -1,0 +1,1 @@
+function = window.li1.innerHTML="ihin";
